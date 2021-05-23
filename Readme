@@ -1,0 +1,5 @@
+----- This is api built on Go lang with Gin framework -----
+1. Fx modules implemented
+2. Automigrations with migration package
+3. mysql database used
+4. Project is dockerized with three images, web, db and adminer
